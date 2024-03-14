@@ -47,7 +47,7 @@ The Protem website should display as shown below:
 
 
 This screenshot provides an overview of the Protem website's layout and design, showcasing its various sections.
-![image](/uploads/0ab678302339ff9bdbcabce9b272128f/image.png)
+![image](https://github.com/JL-Omega/Gitlab-CI-CD-Project/assets/96908472/9b6b166d-40c9-403e-9d4d-d9319be6b318)
 
 ## Application Structure
 
