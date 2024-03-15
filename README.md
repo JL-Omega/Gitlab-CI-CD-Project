@@ -86,7 +86,7 @@ The Protem application focuses on providing information about Protem's services 
 
 ## Docker Image Deployment
 
-The Dockerfile in the repository builds both the frontend and backend services. The resulting Docker image is pushed to Docker Hub.
+The Dockerfile in the repository defines the instructions for building the Docker image that will be deployed to Docker Hub. It specifies the environment and dependencies required for running the Protem Web Application.
 
 ## Environment Variables
 
