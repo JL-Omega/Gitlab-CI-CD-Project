@@ -18,13 +18,13 @@ To run the Protem Web Application, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://gitlab.com/devops-projects2461303/gitlab_project/gitlab-project.git
+git clone https://github.com/JL-Omega/Gitlab-CI-CD-Project.git
 ``` 
 
 2. Navigate to the cloned directory:
 
 ```bash
-cd gitlab-project
+cd Gitlab-CI-CD-Project
 ```
 
 3. Define the following environment variables in your GitLab project's CI/CD settings:
